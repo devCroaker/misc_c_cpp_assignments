@@ -1,0 +1,132 @@
+Read in Employee: ADA     A AGUSTA   
+         Address: 33 BABBAGE ROAD  LOVELACE    GB 19569
+             Age: 28
+             Sex: F
+   Years of Work: 2
+          Salary: 350.50
+
+Read in Employee: ISSAC   A ASIMOV   
+         Address: 99 FICTION WAY   AMHERST     MA 63948
+             Age: 58
+             Sex: M
+   Years of Work: 6
+          Salary: 423.88
+
+Read in Employee: HUMPHRY R BOGART   
+         Address: 71 SAM STREET    HOLLYWOOD   CA 48482
+             Age: 56
+             Sex: M
+   Years of Work: 5
+          Salary: 366.00
+
+Read in Employee: ALBERT  G EINSTEIN 
+         Address: 94 ENERGY WAY    PRINCETON   NJ 47474
+             Age: 67
+             Sex: M
+   Years of Work: 8
+          Salary: 780.00
+
+Read in Employee: EMMYLOU L HARRIS   
+         Address: 66 COUNTRY ROAD  NASHVILLE   TN 72647
+             Age: 38
+             Sex: F
+   Years of Work: 2
+          Salary: 767.42
+
+Read in Employee: JAMES   T KIRK     
+         Address: 11 SPACE STREET  VULCAN      CA 82828
+             Age: 46
+             Sex: M
+   Years of Work: 1
+          Salary: 235.70
+
+Read in Employee: TED     L KOPPEL   
+         Address: 55 ABC PLACE     WASHINGTON  DC 37376
+             Age: 48
+             Sex: M
+   Years of Work: 9
+          Salary: 909.44
+
+Read in Employee: DAVID   T LETTERMAN
+         Address: 14 WNBC AVENUE   NEW YORK    NY 19338
+             Age: 47
+             Sex: M
+   Years of Work: 5
+          Salary: 445.65
+
+Read in Employee: STEVIE  R NICKS    
+         Address: 31 MUSIC ROAD    CHICAGO     IL 23459
+             Age: 38
+             Sex: F
+   Years of Work: 8
+          Salary: 460.88
+
+Read in Employee: MONTY   P PYTHON   
+         Address: 76 SILLY STREET  LONDON      GB 80939
+             Age: 44
+             Sex: M
+   Years of Work: 2
+          Salary: 320.50
+
+Read in Employee: ROGER   R RABBIT   
+         Address: 15 LOONEY TOONS  HOLLYWOOD   CA 91343
+             Age: 24
+             Sex: M
+   Years of Work: 4
+          Salary: 259.53
+
+Read in Employee: SALLY   W RIDE     
+         Address: 21 COLUMBIA WAY  HOUSTON     TX 91123
+             Age: 30
+             Sex: F
+   Years of Work: 9
+          Salary: 707.80
+
+Read in Employee: ROD     Q SERLING  
+         Address: 11 TWLIGHT ZONE  SAN DIEGO   CA 93939
+             Age: 56
+             Sex: M
+   Years of Work: 1
+          Salary: 440.00
+
+Read in Employee: LUKE    R SKYWALKER
+         Address: 43 MILKY WAY     NEW YORK    NY 12343
+             Age: 35
+             Sex: M
+   Years of Work: 5
+          Salary: 660.00
+
+
+The male employees are:
+ISSAC   ASIMOV   
+HUMPHRY BOGART   
+ALBERT  EINSTEIN 
+JAMES   KIRK     
+TED     KOPPEL   
+DAVID   LETTERMAN
+MONTY   PYTHON   
+ROGER   RABBIT   
+ROD     SERLING  
+LUKE    SKYWALKER
+
+The highest paid female is: EMMYLOU HARRIS   
+
+The lowest paid male is: JAMES   KIRK     
+
+The average salary is: 509.09
+
+The women making less than the average salary are:
+ADA     AGUSTA   
+STEVIE  NICKS    
+
+The ratio of men above average salary to those below is: 0.429
+
+The employees over 30 making $35K+, who have been with the company 5+ years are:
+ALBERT  EINSTEIN 
+TED     KOPPEL   
+SALLY   RIDE     
+
+The employees given a 10% raise for making less than 350 are:
+JAMES   KIRK      salary increased to 259.27
+MONTY   PYTHON    salary increased to 352.55
+ROGER   RABBIT    salary increased to 285.48

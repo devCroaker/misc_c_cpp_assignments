@@ -1,0 +1,16 @@
+The user entered a weight of 305.00 and a height of 76.00
+The users bmi is 37.1
+The users bmi evaluates to be obese
+
+The user entered a weight of 205.00 and a height of 73.00
+The users bmi is 27.0
+The users bmi evaluates to be overweight
+
+The user entered a weight of 175.00 and a height of 60.00
+The users bmi is 34.2
+The users bmi evaluates to be obese
+
+The user entered a weight of 128.00 and a height of 60.00
+The users bmi is 25.0
+The users bmi evaluates to be normal
+

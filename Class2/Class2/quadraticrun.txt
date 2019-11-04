@@ -1,0 +1,5 @@
+User entered 1.000000 for a
+User entered -5.000000 for b
+User entered 6.000000 for c
+The value of x1 is 3.000000
+The value of x2 is 2.000000

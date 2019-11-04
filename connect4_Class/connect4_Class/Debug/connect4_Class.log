@@ -1,0 +1,11 @@
+﻿  change_player.cpp
+  check_win.cpp
+  Connect4.cpp
+  game_over.cpp
+  get_move.cpp
+  init_board.cpp
+  print_board.cpp
+  Source.cpp
+  update.cpp
+  Generating Code...
+  connect4_Class.vcxproj -> c:\users\alexander lindahl.jeromes\source\repos\connect4_Class\Debug\connect4_Class.exe

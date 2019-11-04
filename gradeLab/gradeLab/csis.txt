@@ -1,0 +1,27 @@
+The user entered the following grade: 78
+The user entered the following grade: 93
+The user entered the following grade: 45
+The user entered the following grade: 88
+The user entered the following grade: 89
+The user entered the sentinal value: -1
+The average of your 5 grades is 78.60
+
+The user entered the following grade: 87
+The user entered the following grade: 68
+The user entered the following grade: 100
+The user entered the sentinal value: -1
+The average of your 3 grades is 85.00
+
+The user entered the following grade: 84
+The user entered the following grade: 86
+The user entered the following grade: 90
+The user entered the following grade: 86
+The user entered the following grade: 96
+The user entered the following grade: 68
+The user entered the following grade: 82
+The user entered the sentinal value: -1
+The average of your 7 grades is 84.57
+
+The user entered the sentinal value: -1
+The user did not enter any valid grades
+

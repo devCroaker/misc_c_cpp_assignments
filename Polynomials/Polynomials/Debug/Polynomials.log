@@ -1,0 +1,27 @@
+﻿  Poly.cpp
+c:\users\alexander lindahl.jeromes\source\repos\polynomials\polynomials\poly.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexander lindahl.jeromes\source\repos\polynomials\polynomials\poly.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexander lindahl.jeromes\source\repos\polynomials\polynomials\poly.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\utility(148): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\algorithm(3846): note: see reference to function template instantiation 'std::pair<int,int>::pair<float,int,0>(const std::pair<float,int> &)' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\algorithm(3844): note: see reference to function template instantiation 'std::pair<int,int>::pair<float,int,0>(const std::pair<float,int> &)' being compiled
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\algorithm(3939): note: see reference to function template instantiation 'std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,bool(__cdecl *)(const std::pair<int,int> &,const std::pair<int,int> &)>(_RanIt,_RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=std::pair<float,int> *,
+              _Pr=bool (__cdecl *)(const std::pair<int,int> &,const std::pair<int,int> &)
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\algorithm(3973): note: see reference to function template instantiation 'void std::_Sort_unchecked<std::pair<float,int>*,bool(__cdecl *)(const std::pair<int,int> &,const std::pair<int,int> &)>(_RanIt,_RanIt,int,_Pr)' being compiled
+          with
+          [
+              _RanIt=std::pair<float,int> *,
+              _Pr=bool (__cdecl *)(const std::pair<int,int> &,const std::pair<int,int> &)
+          ]
+  c:\users\alexander lindahl.jeromes\source\repos\polynomials\polynomials\poly.cpp(55): note: see reference to function template instantiation 'void std::sort<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,bool(__cdecl *)(const std::pair<int,int> &,const std::pair<int,int> &)>(const _RanIt,const _RanIt,_Pr)' being compiled
+          with
+          [
+              _Ty=std::pair<float,int>,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::pair<float,int>>>>,
+              _Pr=bool (__cdecl *)(const std::pair<int,int> &,const std::pair<int,int> &)
+          ]
+  Polynomials.vcxproj -> C:\Users\Alexander Lindahl.JEROMES\source\repos\Polynomials\Debug\Polynomials.exe

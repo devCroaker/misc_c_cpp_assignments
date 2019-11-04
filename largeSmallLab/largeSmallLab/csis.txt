@@ -1,0 +1,32 @@
+Asked the user to enter four intigers. They entered:
+1 - 28
+2 - 44
+3 - 66
+4 - 82
+The largest of the four numbers was: 82
+The smallest of the four numbers was: 28
+
+Asked the user to enter four intigers. They entered:
+1 - 8
+2 - 14
+3 - 22
+4 - 6
+The largest of the four numbers was: 22
+The smallest of the four numbers was: 6
+
+Asked the user to enter four intigers. They entered:
+1 - 21
+2 - 38
+3 - 12
+4 - 16
+The largest of the four numbers was: 38
+The smallest of the four numbers was: 12
+
+Asked the user to enter four intigers. They entered:
+1 - 98
+2 - 22
+3 - 45
+4 - 63
+The largest of the four numbers was: 98
+The smallest of the four numbers was: 22
+

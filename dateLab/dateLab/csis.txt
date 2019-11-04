@@ -1,0 +1,71 @@
+The user has chosen option 1
+
+The user has entered the calendar date 11/15/1922
+
+The julian date for the date 11/15/1922 is 319, 1922
+
+------------------------------
+The user has chosen option 1
+
+The user has entered the calendar date 2/29/1984
+
+The julian date for the date 2/29/1984 is 60, 1984
+
+------------------------------
+The user has chosen option 1
+
+The user has entered the calendar date 7/7/2000
+
+The julian date for the date 7/7/2000 is 189, 2000
+
+------------------------------
+The user has chosen option 2
+
+The user has entered the julian date 53, 1947
+
+The calendar date for the date 53, 1947 is 2/22/1947
+
+------------------------------
+The user has chosen option 2
+
+The user has entered the julian date 211, 1995
+
+The calendar date for the date 211, 1995 is 7/30/1995
+
+------------------------------
+The user has chosen option 2
+
+The user has entered the julian date 360, 2006
+
+The calendar date for the date 360, 2006 is 12/26/2006
+
+------------------------------
+The user has chosen option 3
+
+The user has entered the calendar date 5/12/1949
+
+The user has entered the calendar date 8/16/1900
+
+The difference between calendar date 5/12/1949 and calendare date 8/16/1900 is 17801 days
+
+------------------------------
+The user has chosen option 3
+
+The user has entered the calendar date 12/15/1985
+
+The user has entered the calendar date 3/1/1986
+
+The difference between calendar date 12/15/1985 and calendare date 3/1/1986 is 76 days
+
+------------------------------
+The user has chosen option 3
+
+The user has entered the calendar date 1/1/1900
+
+The user has entered the calendar date 7/7/1993
+
+The difference between calendar date 1/1/1900 and calendare date 7/7/1993 is 34155 days
+
+------------------------------
+The user has chosen option 4
+
